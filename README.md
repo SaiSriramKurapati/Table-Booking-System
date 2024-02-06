@@ -23,7 +23,27 @@ The Little Lemon website is a React-based web application designed to offer a us
 
 # Setup and Installation
 1. Clone the repository
-2. Create a new React app with npm
+2. Create a new React app
     ```bash
     npx create-react-app nameofyourapp
+   ```
+3. Install dependencies
+    ```bash
+    npm install
     ```
+4. Start development server
+    ``` bash
+    npm start
+    ```
+# Technologies Used
+- React.js
+- Node.js
+- HTML , CSS , Javascript
+- Additional Frameworks/Libraries : sweetalert2
+
+# Screenshot of the webpage
+![Webpage Preview](https://imgur.com/a/OOXCMuF)
+
+
+
+
