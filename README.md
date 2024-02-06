@@ -1,7 +1,7 @@
 # Little Lemon Restaurant: Online Table Reservation System - Front End Interface
 
 # Author
-- SAISRIRAM KURAPATI - MASTERS IN COMPUTER SCIENCE AT UNIVERSITY OF CENTRAL FLORIDA.
+- Sai Sriram Kurapati - Masters in Computer Science at University Of Central Florida.
 
 # Overview
 The Little Lemon website is a React-based web application designed to offer a user-friendly interface for customers. It allows users to reserve tables, view weekly specials, and order food online.
@@ -43,6 +43,8 @@ The Little Lemon website is a React-based web application designed to offer a us
 
 # Screenshot of the webpage
 ![Webpage Preview](https://github.com/SaiSriramKurapati/Table-Booking-System/blob/5dff178dfda236a7862f78254e093d7562ca3df2/myapp/src/images/screencapture-localhost-3001-2024-02-06-13_10_58.png)
+
+
 
 
 
