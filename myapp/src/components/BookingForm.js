@@ -10,7 +10,6 @@ const BookingForm = (props) => {
     const handleSubmit = (e) => {
         e.preventDefault();
         props.submitForm(e);
-        // we will solve it latter
     }
     const handleChange = (e) => {
         setDate(e);
