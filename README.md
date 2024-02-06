@@ -22,3 +22,8 @@ The Little Lemon website is a React-based web application designed to offer a us
 - BookingForm.js: A form component that allows users to enter booking details.
 
 # Setup and Installation
+1. Clone the repository
+2. Create a new React app with npm
+    ```bash
+    npx create-react-app nameofyourapp
+    ```
