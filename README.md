@@ -42,7 +42,7 @@ The Little Lemon website is a React-based web application designed to offer a us
 - Additional Frameworks/Libraries : sweetalert2
 
 # Screenshot of the webpage
-![Webpage Preview](https://imgur.com/a/OOXCMuF)
+![Webpage Preview](https://github.com/SaiSriramKurapati/Table-Booking-System/blob/5dff178dfda236a7862f78254e093d7562ca3df2/myapp/src/images/screencapture-localhost-3001-2024-02-06-13_10_58.png)
 
 
 
